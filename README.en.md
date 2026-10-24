@@ -47,10 +47,11 @@ b733f85831f27656fbbf0c424b0a76ceef74dd7ac3261423b0311dc6c8804fcb
 ```
 
 You can also install and update it straight from the LSPosed Manager
-[module repository](https://modules.lsposed.org/module/io.github.tophtab.lspstore/). **No module activation is needed and no app is hooked**: LSP Store
-declares itself as an empty module scoped to itself only, so that it can be listed
-in the official index and take part in Manager's install and update flow. Requires
-Android 8.1+ with LSPosed installed.
+[module repository](https://modules.lsposed.org/module/io.github.tophtab.lspstore/).
+**No module activation is needed and no app is hooked**: LSP Store declares itself
+as an empty module scoped to itself only, so that it can be listed in the official
+index and take part in Manager's install and update flow. Requires Android 8.1+
+with LSPosed installed.
 
 > LSP Store is a third-party project, not affiliated with the LSPosed team.
 
