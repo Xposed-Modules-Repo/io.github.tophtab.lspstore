@@ -45,10 +45,11 @@ sha256sum -c SHA256SUMS
 b733f85831f27656fbbf0c424b0a76ceef74dd7ac3261423b0311dc6c8804fcb
 ```
 
-也可以直接在 LSPosed Manager 的[模块仓库](https://modules.lsposed.org/module/io.github.tophtab.lspstore/)里
-安装与更新。**本应用不需要激活任何模块，
-也不 Hook 任何应用**：它只是把自己声明成一个空模块（作用域是自身），以便进入官方索引、
-参与 Manager 的安装与更新流程。需要 Android 8.1+ 并已安装 LSPosed。
+也可以直接在 LSPosed Manager 的
+[模块仓库](https://modules.lsposed.org/module/io.github.tophtab.lspstore/)里安装与更新。
+**本应用不需要激活任何模块，也不 Hook 任何应用**：它只是把自己声明成一个空模块
+（作用域是自身），以便进入官方索引、参与 Manager 的安装与更新流程。
+需要 Android 8.1+ 并已安装 LSPosed。
 
 > LSP Store 是第三方项目，与 LSPosed 团队没有隶属关系。
 
